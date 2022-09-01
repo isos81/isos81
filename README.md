@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isos81
 - 👀 I’m interested in various fields in software engineering
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning CICD processes
 - 📫 How to reach me ismetbahadir@gmail.com
 
 <!---
